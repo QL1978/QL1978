@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @QL1978
-- 👀 I’m interested in Civil engineering
-- 🌱 I’m currently learning Parametric modeling
-- 😄 Pronouns: him
-- ⚡ Fun fact: game
+# Hi there, I'm QL1978! 👋
 
-<!---
-QL1978/QL1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 🎓 我拥有 [学士] 学位，毕业于 [浙江大学]。
+- 🌱 我目前正在学习 [python]。
+- 💬 欢迎向我咨询关于 [大跨空间结构] 的问题。
+- 📫 如何联系我：[1254604268@qq.com]
+- ⚡ 感兴趣的事：[原神！]
